@@ -1,0 +1,12 @@
+{
+  "name": "pattern-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dina Melwani Pattern Room — Couture collections",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
